@@ -2,7 +2,7 @@
 * 依存性の注入について実装して動作確認
 
 # 概要
-Paymentに渡すためのオブジェクトを作成
+Paymentに渡すためのオブジェクトを生成
 * RaiesTechPay,TestPayment<br>
 
 上で生成したオブジェクトを引数にしてPaymentオブジェクトを生成<br>
